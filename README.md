@@ -1,13 +1,6 @@
 <h1 align="center">Hey 👋, I'm Microwavedd</h1>
-<h3 align="center">A novice developer from Spain</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=microwavedd" alt="microwavedd" /></a> </p>
-
-- 🌱 I’m currently learning **Front-end, C# for Unity, Lua for various games and Python modules**
-
-- 👯 I’m looking to collaborate on **making open source more accesible to everyone.**
-
-- 🤝 I’m looking for help with learning skills and becoming a competent developer.
 
 - 👨‍💻 All of my projects are available right here, on my github.
 
